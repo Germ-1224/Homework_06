@@ -7,4 +7,4 @@
 </form>
 
 <a href='add.php'>新增資料</a><br>
-<a href='show.php'>查看資料庫內容</a>
+<a href='showdb.php'>查看資料庫內容</a>
